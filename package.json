@@ -1,0 +1,11 @@
+{
+  "name": "express-and-http",
+  "version": "1.0.0",
+  "description": "## Outline * Create a basic HTTP server with Express * Restart a JavaScript program with `nodemon` * Use query params to create dynamic routes * Use middleware to parse body data from a request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
